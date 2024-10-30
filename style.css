@@ -104,7 +104,7 @@
 }
 .slide--1__darkbg {
   left: 0%;
-  background: url("./pic/1.jpeg") center center no-repeat;
+  background: url("./1.jpeg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -120,13 +120,13 @@
   background-color: rgba(11, 15, 39, 0.83);
 }
 .slide--1__letter {
-  background: url("./pic/1.jpeg") center center no-repeat;
+  background: url("./1.jpeg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
 }
 .slide--2__darkbg {
   left: -50%;
-  background: url("./pic/2.jpeg") center center no-repeat;
+  background: url("./2.jpeg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -142,13 +142,13 @@
   background-color: rgba(11, 15, 39, 0.83);
 }
 .slide--2__letter {
-  background: url("./pic/2.jpeg") center center no-repeat;
+  background: url("./2.jpeg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
 }
 .slide--3__darkbg {
   left: -100%;
-  background: url("./pic/3.jpeg") center center no-repeat;
+  background: url("./3.jpeg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -164,13 +164,13 @@
   background-color: rgba(11, 15, 39, 0.83);
 }
 .slide--3__letter {
-  background: url("./pic/3.jpeg") center center no-repeat;
+  background: url("./3.jpeg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
 }
 .slide--4__darkbg {
   left: -150%;
-  background: url("./pic/4.jpeg") center center no-repeat;
+  background: url("./4.jpeg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -186,13 +186,13 @@
   background-color: rgba(11, 15, 39, 0.83);
 }
 .slide--4__letter {
-  background: url("./pic/4.jpeg") center center no-repeat;
+  background: url("./4.jpeg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
 }
 .slide--5__darkbg {
   left: -200%;
-  background: url("./pic/6.jpeg") center center no-repeat;
+  background: url("./6.jpeg") center center no-repeat;
   background-size: cover;
   background-position: 0px center, 0px center;
   transform: translate3d(0, 0, 0);
@@ -208,7 +208,7 @@
   background-color: rgba(11, 15, 39, 0.83);
 }
 .slide--5__letter {
-  background: url("./pic/6.jpeg") center center no-repeat;
+  background: url("./6.jpeg") center center no-repeat;
   background-position: 0px center, 0px center;
   background-size: cover;
 }
